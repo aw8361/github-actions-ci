@@ -1,0 +1,11 @@
+.python-version
+
+__pycache__/
+.pytest_cache/
+
+htmlcov/
+.tox/
+.coverage
+
+dist/
+*.egg-info/

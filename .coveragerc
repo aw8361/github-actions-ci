@@ -1,0 +1,9 @@
+[run]
+parallel = True
+source_pkgs =
+    github_actions_ci
+
+[paths]
+source =
+    src/
+    .tox/*/lib/python*/site-packages/
